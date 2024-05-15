@@ -1,1 +1,2 @@
-# Cubes2_IoT
+# CUBE2
+Cube2
